@@ -25,7 +25,7 @@ With 20+ external certifications on various technologies and few titles are,
 ### Experience
 
 ```markdown
-#Microsoft (October 2019 - Present)
+#Microsoft (October 2021 - Present)
 Senior Cloud Solution Architect, Customer Success, Singapore
 Singapore
 
