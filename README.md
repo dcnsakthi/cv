@@ -3,31 +3,37 @@
 
 ### Summary
 
-Forward-thinking consultant and technologist with 15+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
+Forward-thinking consultant and technologist with 17+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
-Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility and semiconductor organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
+International, cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam’s, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
-With 20+ external certifications on various technologies and few titles are,
+Here are some of my credentials from various technologies and experiences.
 
 - Microsoft Certified Azure Solution Architect (Expert)
 - Microsoft Certified Cybersecurity Architect (Expert)
 - Microsoft Certified DevOps Engineer (Expert)
+- Microsoft Certified Fabric Analytics Engineer (Associate)
 - Microsoft Certified Azure Data Engineer (Associate)
 - Microsoft Certified Azure Data Scientist (Associate)
 - Microsoft Certified Data Analyst (Associate)
-- Microsoft Certified Azure Database Administrator (Associate) 
+- Microsoft Certified Azure Database Administrator (Associate)
 - Microsoft Certified Azure Security Engineer (Associate)
 - Microsoft Certified Azure Developer (Associate)
 - Microsoft Certified Azure Administrator (Associate)
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified Professional (MCP)
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
-- Microsoft Certified Technology Specialist 
+- Microsoft Certified Technology Specialist (MCTS)
 
 ### Experience
 
 ```markdown
 #Microsoft (October 2021 - Present)
-Senior Cloud Solution Architect, Customer Success, Singapore
+Architect, ISD Global Engineering & Architecture Group @ Microsoft Asia
+Singapore
+
+Senior Cloud Solution Architect, Customer Success @ Microsoft Singapore (2 years 8 months)
 Singapore
 
 #Sembcorp Industries Ltd (April 2019 - October 2021)
