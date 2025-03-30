@@ -7,7 +7,7 @@ Forward-thinking consultant and technologist with 17+ years of experience, drivi
 
 International, cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam’s, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
-Here are some of my credentials from various technologies and experiences.
+Presented below is a comprehensive portfolio of my credentials, highlighting expertise across a wide range of technologies and experiences.
 
 - Microsoft Certified Azure Solution Architect (Expert)
 - Microsoft Certified Cybersecurity Architect (Expert)
