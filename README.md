@@ -101,3 +101,5 @@ Bharathiar University, TN, India
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<hr>
+| <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a> | <a href="https://github.com/dcnsakthi?tab=repositories" target="_blank">GitHub</a> | <a href="https://www.credly.com/users/dcnsakthi/badges" target="_blank">Badges</a> | <a href="https://cv.nsakthi.com/" target="_blank">CV</a> |
