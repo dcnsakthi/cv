@@ -436,7 +436,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - 💎 **Microsoft Fabric Top Technical Insider - PLATINUM**
 - 💎 **Microsoft Fabric Technical Insider**
 - 🌟 **Valuable Contributor Silver Award**
-- ⚡ **Consumption Success Award** (APAC)
+- ⚡ **Consumption Success Award (APAC)** 
 
 </td>
 </tr>
@@ -455,7 +455,8 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 #### 🔐 Professional Memberships
 
 - 🛡️ **Cybersecurity Professional Member** - ISC2 USA & ISC2 Chapter Singapore
-- 🌟 **Ordinary wiht SIAS AGM Voting Rights** - Securities Investors Association (Singapore)  
+- 🌟 **SIAS Member with AGM Voting Rights** - Securities Investors Association (Singapore)
+- 🔷 **Amateur Station Operator** - Wireless Planning & Coordination (WPC), India
 
 </td>
 </tr>
@@ -468,14 +469,14 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 <td markdown="1">
 
 - 🏆 **10 Years of Service Award** (Canada)
-- 💎 **Platinum & Diamond Award** - Customer Focus (US)
+- 💎 **Platinum & Diamond Award - Customer Focus** (US)
 - 🏅 **Best Performer of the Project** (US)
 - 🎖️ **Best Innovator Award of the Year** (UK)
 
 </td>
 <td markdown="1">
 
-- ⭐ **Associate of the Quarter Award** - Difference Maker & Rainmaker (Singapore, India, UK)
+- ⭐ **Associate of the Quarter Award - Difference Maker & Rainmaker** (Singapore, India, UK)
 - 💡 **Best Idea Champion Award** (Singapore & India)
 - 💎 **GEM Spot Award** (India)
 
@@ -516,7 +517,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 | **Years of Experience** | 17+ Years |
 | **Countries Worked** | 5+ Countries |
 | **Industries Served** | 8+ Industries |
-| **Clients** | Fortune X Companies |
+| **Client Portfolio** | Fortune X Companies |
 | **Expert Certifications** | 3 Expert Level |
 | **Associate Certifications** | 8+ Associate Level |
 | **Awards Received** | 20+ Awards |
@@ -564,7 +565,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <div align="center" markdown="1">
   
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=dcnsakthi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat)
-[![CV Website Views](https://hits.sh/cv.nsakthi.com.svg?label=CV%20Website%20Views&color=79c83d&style=flat)](https://cv.nsakthi.com)
+![GitHub Views](https://komarev.com/ghpvc/?username=dcnsakthi&label=GitHub%20Views&color=0e75b6&style=flat)
+[![CV Views](https://hits.sh/cv.nsakthi.com.svg?label=CV%20Views&color=79c83d&style=flat)](https://cv.nsakthi.com)
 
 </div>
