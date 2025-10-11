@@ -225,13 +225,13 @@ International, cross-industry experience in defining cloud-based solution archit
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 **🔷 Amazon Development Centre (India) Pvt. Ltd.**  
 *Analyst* | Chennai, India
 
 </td>
-<td>
+<td markdown="1">
 
 **🔷 Satyam Computer Services Ltd.**  
 *Associate Trainee* | Chennai, India
@@ -306,7 +306,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" markdown="1">
 
 ### 🎓 Master's Degrees
 
@@ -319,7 +319,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 📅 2005 - 2007 | 🎯 Distance Learning
 
 </td>
-<td width="33%">
+<td width="33%" markdown="1">
 
 ### 🎓 Bachelor's Degree
 
@@ -329,7 +329,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 📅 2002 - 2005 | 🎯 Regular
 
 </td>
-<td width="33%">
+<td width="33%" markdown="1">
 
 ### 📊 Academic Focus
 
@@ -351,17 +351,17 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure_Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure)
 
 </td>
-<td>
+<td markdown="1">
 
 ![Cybersecurity](https://img.shields.io/badge/Microsoft-Cybersecurity_Architect-0078D4?style=for-the-badge&logo=microsoft-azure)
 
 </td>
-<td>
+<td markdown="1">
 
 ![DevOps](https://img.shields.io/badge/Microsoft-DevOps_Engineer-0078D4?style=for-the-badge&logo=azure-devops)
 
@@ -377,7 +377,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 - ✅ **Microsoft Certified Fabric Analytics Engineer Associate**
 - ✅ **Microsoft Certified Azure Data Engineer Associate**
@@ -385,7 +385,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - ✅ **Microsoft Certified Data Analyst Associate** (Power BI)
 
 </td>
-<td>
+<td markdown="1">
 
 - ✅ **Microsoft Certified Azure Database Administrator Associate**
 - ✅ **Microsoft Certified Azure Security Engineer Associate**
@@ -393,7 +393,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - ✅ **Microsoft Certified Azure Developer Associate**
 
 </td>
-<td>
+<td markdown="1">
 
 - ✅ **ISC2 Certified in Cybersecurity (CC)**
 - ✅ **GovTech Certified Government on Commercial Cloud (GCC) Foundation**
@@ -419,7 +419,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" markdown="1">
 
 #### 🥇 Excellence Awards
 
@@ -429,7 +429,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - 🏆 **CSA Delivery Excellence, VBD-Ready & Operational Excellence Team**
 
 </td>
-<td width="50%">
+<td width="50%" markdown="1">
 
 #### 🎖️ Technical Recognition
 
@@ -441,7 +441,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" markdown="1">
 
 #### 🌿 Sustainability Leadership
 
@@ -450,7 +450,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - 📖 **Sustainable Software Development Guidelines Contributor** (IMDA, Singapore)
 
 </td>
-<td width="50%">
+<td width="50%" markdown="1">
 
 #### 🔐 Professional Memberships
 
@@ -465,7 +465,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 - 🏆 **10 Years of Service Award** (Canada)
 - 💎 **Platinum & Diamond Award** - Customer Focus (US)
@@ -473,7 +473,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - 🎖️ **Best Innovator Award of the Year** (UK)
 
 </td>
-<td>
+<td markdown="1">
 
 - ⭐ **Associate of the Quarter Award** - Difference Maker & Rainmaker (Singapore, India, UK)
 - 💡 **Best Idea Champion Award** (Singapore & India)
@@ -487,7 +487,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 **Walmart (US)**
 
@@ -495,7 +495,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 - 🔧 Problem Solver Award
 
 </td>
-<td>
+<td markdown="1">
 
 **Marks & Spencer (UK)**
 
