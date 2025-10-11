@@ -425,7 +425,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 - 🏆 **ISD RISE Award Winner** - Making a Difference (Individual)
 - 🏆 **ISD RISE Award Winner** - Growth Mindset Through Customer & Partner Obsession (Team)
-- 🏆 **Microsoft Global Hackathon's Most Innovative Award**
+- 🏆 **Consumption Success Award** (APAC)
 - 🏆 **CSA Delivery Excellence, VBD-Ready & Operational Excellence Team**
 
 </td>
@@ -433,10 +433,11 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 #### 🎖️ Technical Recognition
 
-- 💎 **Microsoft Fabric Top Technical Insider - PLATINUM**
+- 💎 **Microsoft Fabric Top Technical Insider** - Platinum
 - 💎 **Microsoft Fabric Technical Insider**
-- 🌟 **Valuable Contributor Silver Award**
-- ⚡ **Consumption Success Award (APAC)** 
+- 🌟 **Valuable Contributor Gold & Silver Award**
+- 🏆 **Microsoft Global Hackathon (2024)** - Most Innovative Award (2024)
+- 🏆 **Microsoft Global Hackathon (2025)** - Hack for Tools Innovation with CE&S (1st Place) and DevOps Automation Trailblazer - Singapore
 
 </td>
 </tr>
@@ -517,7 +518,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 | **Years of Experience** | 17+ Years |
 | **Countries Worked** | 5+ Countries |
 | **Industries Served** | 8+ Industries |
-| **Client Portfolio** | Fortune X Companies |
+| **Clients Empowered** | Fortune X Companies |
 | **Expert Certifications** | 3 Expert Level |
 | **Associate Certifications** | 8+ Associate Level |
 | **Awards Received** | 20+ Awards |
@@ -556,8 +557,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ---
 
-**© 2025 Sakthivel Nachimuthu**  
-*Built with ❤️ and Markdown | Last Updated: October 2025*
+**© 2025 Sakthivel Nachimuthu**  | **Updated: October 2025**
 
 </div>
 
