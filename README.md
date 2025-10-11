@@ -1,17 +1,17 @@
-<div align="center"><div align="center">
+<div align="center">
 
-# SAKTHIVEL NACHIMUTHU
-###  Technology Consultant & Thought Leader
+# 🚀 SAKTHIVEL NACHIMUTHU
+
+### Technology Consultant & Thought Leader
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dcnsakthi)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dcnsakthi/badges)
 [![Phone](https://img.shields.io/badge/Phone-%2B65_********-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+65********)
 [![Location](https://img.shields.io/badge/Singapore-Cecil_St-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
+</div>
 
-</div></div>
-
-------
+---
 
 ## 💡 Professional Summary
 
@@ -32,7 +32,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
  • `Walmart` • `Informatica` • `GlobalFoundries` • `Microsoft` • `Apple` • `Toyota` • `GovTech` • `HTX` • `Sembcorp` • `Met Office` • `Marks & Spencer`
 
-------
+---
 
 ## 🎯 Core Competencies
 

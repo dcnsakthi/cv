@@ -1,4 +1,19 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  
+# Allow HTML in markdown
+plugins:
+  - jekyll-relative-links
+  
+# Site settings
+title: Sakthivel Nachimuthu
+description: Technology Consultant & Thought Leader
   
