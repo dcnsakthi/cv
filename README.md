@@ -565,6 +565,6 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 <div align="center" markdown="1">
   
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dcnsakthi&label=GitHub%20Profile%20Views&color=0e75b6&style=flat)
-![CV Website Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcv.nsakthi.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=CV+Website+Views&edge_flat=true)
+[![CV Website Views](https://img.shields.io/badge/CV%20Website%20Views-Visit-success?style=flat&logo=google-chrome)](https://cv.nsakthi.com)
 
 </div>
