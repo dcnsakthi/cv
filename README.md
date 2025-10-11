@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # SAKTHIVEL NACHIMUTHU
 ### Technology Consultant & Thought Leader
@@ -78,7 +78,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 #### 🔷 Architect – Cloud, Data & AI Platform
 
-**ISD Global Engineering and Architecture Group | Microsoft Asia**  
+**ISD Global Engineering and Architecture Group|Microsoft Asia**  
 📅 *October 2021 - Present* | 📍 *Singapore*
 
 <details open markdown="1">
@@ -509,7 +509,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ## 📊 Career Highlights in Numbers
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Metric | Achievement |
 |:------:|:-----------:|
@@ -528,7 +528,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ## 🌐 Professional Links
 
-<div align="center">
+<div align="center" markdown="1">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dcnsakthi)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/dcnsakthi?tab=repositories)
@@ -539,7 +539,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 📫 Let's Connect
 
@@ -562,6 +562,6 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://komarev.com/ghpvc/?username=dcnsakthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
