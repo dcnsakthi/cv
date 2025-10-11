@@ -557,7 +557,8 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ---
 
-**© 2025 Sakthivel Nachimuthu**  | **Updated: October 2025**
+**© 2025 Sakthivel Nachimuthu**
+*Updated: October 2025*
 
 </div>
 
