@@ -4,18 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
+    <title>{{ page.title | default: "Sakthivel Nachimuthu - Technology Consultant" }}</title>
     <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
-
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      .page-header {
+        display: none !important;
+      }
+      .main-content {
+        max-width: 100%;
+        padding: 2rem 4rem;
+        margin: 0 auto;
+        font-size: 1rem;
+      }
+      @media screen and (max-width: 64em) {
+        .main-content {
+          padding: 2rem 1rem;
+        }
+      }
+    </style>
   </head>
   <body>
-    <div class="wrapper">
-      <section>
-        {{ content }}
-      </section>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
   </body>
 </html>

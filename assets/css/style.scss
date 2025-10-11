@@ -1,0 +1,86 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Hide page header completely
+.page-header {
+  display: none !important;
+}
+
+// Full width content
+.main-content {
+  max-width: 100% !important;
+  padding: 2rem 6rem !important;
+  
+  @media screen and (max-width: 64em) {
+    padding: 2rem 2rem !important;
+  }
+  
+  @media screen and (max-width: 42em) {
+    padding: 2rem 1rem !important;
+  }
+}
+
+// Ensure details/summary work properly
+details {
+  margin-bottom: 1rem;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  
+  &::-webkit-details-marker {
+    display: none;
+  }
+}
+
+details[open] summary {
+  margin-bottom: 1rem;
+}
+
+// Better table rendering
+table {
+  display: table !important;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  
+  th {
+    font-weight: bold;
+    background-color: #159957;
+    color: #fff;
+  }
+  
+  th, td {
+    padding: 0.5rem 1rem;
+    border: 1px solid #e9ebec;
+  }
+}
+
+// Better code block rendering
+pre {
+  padding: 1rem;
+  overflow: auto;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  border-radius: 0.3rem;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+}
+
+code {
+  padding: 2px 4px;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 0.9rem;
+  color: #567482;
+  background-color: #f3f6fa;
+  border-radius: 0.3rem;
+}

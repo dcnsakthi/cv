@@ -1,5 +1,5 @@
-# Use minimal theme for clean rendering
-theme: jekyll-theme-minimal
+# Use Cayman theme for full-width modern rendering
+theme: jekyll-theme-cayman
 
 # Markdown settings - ensure proper HTML rendering
 markdown: kramdown
@@ -10,10 +10,11 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
   
-# Site settings - disable showing title from config
-show_downloads: false
-
 # GitHub Pages settings
 github:
   is_project_page: false
+  
+# Site settings
+title: ""
+description: ""
   
