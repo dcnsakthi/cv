@@ -246,7 +246,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 ### **Top Skills**
 ```yaml
-Solution Architecture | Generative AI | Cloud Computing | Big Data Analytics | Cybersecurity
+Solution Architecture | Generative AI | Cloud Computing | Big Data Analytics | Cybersecurity 
 ```
 
 ### **Governance & DevOps**
@@ -553,7 +553,7 @@ Specialized: IoT Analytics, Media Streaming, Big Data, Hadoop
 
 ### 💬 Open to Opportunities
 
-*Head of Architecture | Head of Engineering | Head of Analytics | Head of Data Science | Head of Artificial Intelligence | Head of Cloud | Technology Consulting | Cloud Architecture | Data & AI Solutions | Digital Transformation*
+Head of Architecture | Head of Engineering | Head of Analytics | Head of Data Science | Head of Artificial Intelligence | Head of Cloud | Head of Data Platform | Technology Consulting | Cloud Architecture | Data & AI Solutions | Digital Transformation
 
 ---
 
