@@ -179,7 +179,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 #### 🔷 Cloud Architect and Senior Big Data Consultant
 
-**Information Architecture CoE | International**  
+**Information Architecture CoE** | **International**  
 📅 *February 2009 - April 2019* *(10+ years)* | 📍 *India, UK, Singapore, US, Canada*
 
 <details markdown="1">
