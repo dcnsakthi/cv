@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🚀 SAKTHIVEL NACHIMUTHU
-
+# SAKTHIVEL NACHIMUTHU
 ### Technology Consultant & Thought Leader
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dcnsakthi)
@@ -38,7 +37,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" markdown="1">
 
 ### 🔧 Technology Leadership
 
@@ -48,7 +47,7 @@ International, cross-industry experience in defining cloud-based solution archit
 - ✅ Drove digital transformation programs
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" markdown="1">
 
 ### 📊 Delivering Business Impact
 
@@ -58,7 +57,7 @@ International, cross-industry experience in defining cloud-based solution archit
 - ✅ Operational efficiency optimization
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" markdown="1">
 
 ### 📈 Quantitative Strategy
 
@@ -82,7 +81,7 @@ International, cross-industry experience in defining cloud-based solution archit
 **ISD Global Engineering and Architecture Group | Microsoft Asia**  
 📅 *October 2021 - Present* | 📍 *Singapore*
 
-<details open>
+<details open markdown="1">
 <summary><b>Key Achievements & Responsibilities</b></summary>
 
 ```diff
@@ -113,7 +112,7 @@ International, cross-industry experience in defining cloud-based solution archit
 **Customer Success | Microsoft Singapore**  
 📅 *October 2021 - 2023* | 📍 *Singapore*
 
-<details>
+<details markdown="1">
 <summary><b>Key Achievements & Responsibilities</b></summary>
 
 **🎯 Customer Engagement**
@@ -145,7 +144,7 @@ International, cross-industry experience in defining cloud-based solution archit
 **Digital & Technology**  
 📅 *April 2019 - October 2021* | 📍 *Singapore*
 
-<details>
+<details markdown="1">
 <summary><b>Key Achievements & Responsibilities</b></summary>
 
 **🎯 Strategic Initiatives**
@@ -183,7 +182,7 @@ International, cross-industry experience in defining cloud-based solution archit
 **Information Architecture CoE | International**  
 📅 *February 2009 - April 2019* *(10+ years)* | 📍 *India, UK, Singapore, US, Canada*
 
-<details>
+<details markdown="1">
 <summary><b>Key Achievements & Responsibilities</b></summary>
 
 **🌐 Global Digital Transformation**

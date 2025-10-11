@@ -1,12 +1,13 @@
 # Use Cayman theme for full-width modern rendering
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
-# Markdown settings - ensure proper HTML rendering
+# Markdown settings - use GFM for better rendering
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-  parse_block_html: true
   auto_ids: true
   syntax_highlighter: rouge
   
