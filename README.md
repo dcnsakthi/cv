@@ -78,7 +78,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 #### 🔷 Architect – Cloud, Data & AI Platform
 
-**ISD Global Engineering and Architecture Group|Microsoft Asia**  
+**ISD Global Engineering and Architecture Group** | **Microsoft Asia**  
 📅 *October 2021 - Present* | 📍 *Singapore*
 
 <details open markdown="1">
@@ -109,7 +109,7 @@ International, cross-industry experience in defining cloud-based solution archit
 
 #### 🔷 Senior Cloud Solution Architect – Data & AI
 
-**Customer Success | Microsoft Singapore**  
+**Customer Success** | **Microsoft Singapore**  
 📅 *October 2021 - 2023* | 📍 *Singapore*
 
 <details markdown="1">
